@@ -29,9 +29,18 @@ background-position: 50% 50%;box-shadow:4px 15px 5px rgba(0,0,0,0.7);}
 .coffeeiconBox{position:absolute; width: 10%;height:10%;right:3%;margin-top: 15%;}
 .coffeeicon img{width: 100%;height: 100%;transform: rotate(-18deg);background-size: cover;
 background-position: 50% 50%;}
+.more{position: absolute;width: 5%;height:5%;top:13%;left:61%;}
+.more img{width: 100%;height: 100%;}
+.div4more{top: 11%;left: 73%;}
 @media only screen and (max-width: 768px){
 	.mx-2{margin-left: .0rem!important}
 	.background{height: 120%;}
 	.img99Content:nth-child(1){margin-left: 18%;}
 	.div04Backgroung{background-position: 50% 50%;}
+	.more{width: 10%;top: 10%;}
+	.div4more{left: 88%;top: 77%;}
+}
+@media only screen and (min-width: 768px) and (max-width: 1280px)
+{
+	.div4more{left: 88%;top: 77%;}
 }
