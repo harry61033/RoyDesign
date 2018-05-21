@@ -10,7 +10,7 @@ img{width: 100%;height: 100%;}
 ;}
 .mx-2{margin-left: 0.5rem!important;}
 .coffeeBox{width:70px;height:70px;position:fixed;z-index: 1;right: 1%;top: 23%;cursor: pointer;}
-.coffee{float: left;width: 100%;height: 100%;background-color: #fff;border-radius: 100%;cursor: pointer;}
+.coffee{float: left;width: 100%;height: 100%;background-color: #fdd329;border-radius: 100%;cursor: pointer;}
 /* .coffee img{width: 100%;height: 100%;} */
 .coffee p{text-align: center; top:0;font-size: 1rem;color: #7e4832;margin-top:33%;cursor: pointer;}
 .span100{color: #7e4832;font-size: 1rem;margin-top: -33%;margin-left: 29%; position: absolute;}
@@ -32,6 +32,8 @@ background-position: 50% 50%;}
 .more{position: absolute;width: 5%;height:5%;top:13%;left:61%;}
 .more img{width: 100%;height: 100%;}
 .div4more{top: 11%;left: 73%;}
+.mt-5, .my-5{margin-top: 5rem!important}
+.logoContent{margin-right: 2%;}
 @media only screen and (max-width: 768px){
 	.mx-2{margin-left: .0rem!important}
 	.background{height: 120%;}
